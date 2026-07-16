@@ -4,8 +4,6 @@ Nexgit is an early-stage open-source project for building a better Git workflow 
 
 This repository is being developed as a university club project. The goal is to be welcoming to new contributors while still using practices that look like a real open-source project.
 
-> Status: **pre-alpha scaffold**. The CLI, TUI, app-server, and desktop app are wired together, but most Git/product behavior is still placeholder logic.
-
 ## What Nexgit is trying to become
 
 Nexgit aims to provide:
